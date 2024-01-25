@@ -1,3 +1,3 @@
 Repository for the code of a example pingpong game.
-Play this game at https://rgrohithgoud.github.io/tictactoe/ .
+Play this game at https://rgrohithgoud.github.io/tictactoe/.
 This is written using React JS.
