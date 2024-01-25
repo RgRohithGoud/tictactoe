@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RgRohithGoud/tictactoe/static/css/main.a9bd4149.css",
+    "main.js": "/RgRohithGoud/tictactoe/static/js/main.be3f2ade.js",
+    "static/js/787.32b887b6.chunk.js": "/RgRohithGoud/tictactoe/static/js/787.32b887b6.chunk.js",
+    "index.html": "/RgRohithGoud/tictactoe/index.html",
+    "main.a9bd4149.css.map": "/RgRohithGoud/tictactoe/static/css/main.a9bd4149.css.map",
+    "main.be3f2ade.js.map": "/RgRohithGoud/tictactoe/static/js/main.be3f2ade.js.map",
+    "787.32b887b6.chunk.js.map": "/RgRohithGoud/tictactoe/static/js/787.32b887b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9bd4149.css",
+    "static/js/main.be3f2ade.js"
+  ]
+}
